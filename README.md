@@ -3,9 +3,9 @@
 
 👩‍💻 a Berlin based **Full Stack Developer** who recently graduated from **Le Wagon;**
 
-🔭 currently working on **a clone of instagram;**
+🔭 currently working on **a clone of Instagram;**
 
-🌱 learning about **data structures and algorithms;**
+🌱 learning about **Data Structures and Algorithms;**
 
 👯 looking to collaborate on **creative Ruby on Rails** projects.
 
