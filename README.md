@@ -3,11 +3,11 @@
 
 - 👩‍💻 I am a Berlin based **Full Stack Developer** who recently graduated from **Le Wagon.**
 
-- 🔭 Currently working on **a clone of instagram.**
+- 🔭 currently working on **a clone of instagram;**
 
-- 🌱 Learning about **data structures and algorithms.**
+- 🌱 learning about **data structures and algorithms;**
 
-- 👯 Looking to collaborate on **creative Ruby on Rails projects.**
+- 👯 looking to collaborate on **creative Ruby on Rails projects.**
 
 
 <h3 align="left">Languages and Tools:</h3>
