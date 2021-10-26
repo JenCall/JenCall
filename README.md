@@ -7,7 +7,7 @@
 
 🌱 learning about **data structures and algorithms;**
 
-👯 looking to collaborate on **creative Ruby on Rails projects.**
+👯 looking to collaborate on **creative Ruby on Rails** projects.
 
 
 <h3 align="left">Languages and Tools:</h3>
