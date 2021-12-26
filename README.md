@@ -5,7 +5,7 @@
 
 🔭 currently working on **a clone of Instagram;**
 
-🌱 learning about **Data Structures and Algorithms;**
+🌱 learning about **Angular and Java;**
 
 👯 looking to collaborate on **creative Ruby on Rails** projects.
 
