@@ -3,7 +3,7 @@
 
 👩‍💻 a Berlin based **Full Stack Developer** who recently graduated from **Le Wagon;**
 
-🔭 currently working on **a clone of Instagram;**
+🔭 currently working on **coding challenges & Angular app;**
 
 🌱 learning about **Angular and Java;**
 
