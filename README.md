@@ -1,11 +1,11 @@
 
 👋 Hello World, I am
 
-👩‍💻 a Berlin based **Full Stack Developer** who recently graduated from **Le Wagon;**
+👩‍💻 a Berlin based **Fullstack Developer**, graduated from **Le Wagon** in 2021;
 
-🔭 currently working on **coding challenges & Angular app;**
+🔭 currently working on **some coding challenges & an Angular app**;
 
-🌱 learning about **Angular and Java;**
+🌱 learning about **Angular & Java**;
 
 👯 looking to collaborate on **creative Ruby on Rails** projects.
 
